@@ -1,4 +1,4 @@
-# Flight Planner COL106
+# Flight Planner 
 
 A Python implementation of a flight-planning system that searches for valid routes between cities based on different optimization criteria.
 
