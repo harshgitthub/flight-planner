@@ -104,7 +104,3 @@ py main.py
 - This is a graph-based flight routing assignment.
 - The code demonstrates route optimization using custom priority structures.
 - You can modify the sample flights in `main.py` to test different scenarios.
-
-## License
-
-This project is intended for academic / learning use as part of COL106 coursework.
